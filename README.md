@@ -16,6 +16,6 @@ Contact App is a web application that allows you to manage your contacts. You ca
  - JavaScript
 
 ## Installation 
-- clone repo :  
+- clone repo :  gh repo clone rishabh200012/contact-app-react
 - use npm i for modules 
 - use npm start to run project
